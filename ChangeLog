@@ -1,3 +1,8 @@
+2003-05-05  Andrey Kiselev  <dron@remotesensing.org>
+
+	* tools/ppm2tiff.c: PPM header parser improved: now able to skip
+	comments.
+
 2003-04-29  Andrey Kiselev  <dron@remotesensing.org>
 
 	* tools/tiff2ps.c, man/tiff2ps.1: Add ability to generate PS Level 3.
